@@ -1,0 +1,22 @@
+
+
+
+html{
+    min-height: 100%;
+}
+
+
+ul{
+    list-style: none;
+}
+
+
+.parameters{
+    display: none;
+}
+
+
+#preview{
+    border: 3px outset #787878;
+    box-shadow: 9px 9px 7px #787878;
+}
